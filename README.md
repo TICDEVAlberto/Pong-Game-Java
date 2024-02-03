@@ -1,3 +1,1 @@
-> # **Pong-Game-Java**
-
-~~The world is flat.~~
+# **Pong-Game-Java**
